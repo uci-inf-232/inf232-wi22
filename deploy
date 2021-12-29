@@ -1,0 +1,2 @@
+ng build
+npx ngh --dir dist/inf232-wi22 --cname=inf232-wi22.depstein.net
