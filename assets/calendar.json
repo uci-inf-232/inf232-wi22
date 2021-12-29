@@ -1,0 +1,579 @@
+{
+	"class_default": {
+		"time": "09:30",
+		"duration": "80"
+	},
+	"events" : [
+		{
+			"date": "2022-01-04",
+			"type": "class",
+			"title": "History & Course Overview",
+			"readings": [
+				{
+					"authors": ["Susanne Bødker"],
+					"title": "When Second Wave HCI Meets Third Wave Challenges",
+					"venue": "NordiCHI",
+					"date": "2006",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1182475.1182476",
+					"optional": true
+				},
+				{
+					"authors": ["Susanne Bødker"],
+					"title": "Third-wave HCI, 10 dates Later--Participation and Sharing",
+					"venue": "Interactions",
+					"volume": 22,
+					"issue": 5,
+					"date": "2015",
+					"link": "https://dl.acm.org/doi/10.1145/2804405",
+					"optional": true
+				},
+				{
+					"authors": ["Steve Harrison", "Deborah Tatar", "Phoebe Sengers"],
+					"title": "The Three Paradigms of HCI",
+					"venue": "alt.CHI",
+					"date": "2007",
+					"link": "https://people.cs.vt.edu/srh/Downloads/HCIJournalTheThreeParadigmsofHCI.pdf",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2022-01-06",
+			"type": "due",
+			"title": "Discussion Leading Preferences",
+			"link": "https://forms.gle/arhvSZGWMGedSxXT8"
+		},
+		{
+			"date": "2022-01-06",
+			"type": "class",
+			"leaders": ["Daniel"],
+			"title": "Research Contribution Types",
+			"readings": [
+				{
+					"authors": ["Jacob O. Wobbrock", "Julie A. Kientz"],
+					"title": "Research Contributions in Human-Computer Interaction",
+					"venue": "Interactions",
+					"volume": 23,
+					"issue": 3,
+					"date": "2016",
+					"link": "https://dl.acm.org/doi/10.1145/2907069"
+				},
+				{
+					"authors": ["CHI 2022"],
+					"title": "Contributions to CHI",
+					"link":"https://chi2022.acm.org/for-authors/presenting/papers/contributions-to-chi/",
+					"date": "2022",
+					"optional":true
+				},
+				{
+					"authors": ["Judith S. Olson", "Wendy A. Kellogg"],
+					"title": "Ways of Knowing in HCI",
+					"venue": "Springer",
+					"date": "2014",
+					"link": "https://link.springer.com/book/10.1007/978-1-4939-0378-8",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2022-01-11",
+			"type": "class",
+			"title": "Overview of Health",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#health"
+				},
+				{
+					"name": "JAMIA",
+					"link": "https://academic.oup.com/jamia/pages/General_Instructions",
+					"notes": "Read 'About the Journal'"
+				},
+				{
+					"name": "AMIA",
+					"link": "https://amia.org/education-events/amia-2021-annual-symposium/call-participation",
+					"notes": "Read 'Target Audience'"
+				},
+				{
+					"name": "PervasiveHealth",
+					"link": "https://pervasivehealth.eai-conferences.org/2021/",
+					"notes": "Read 'Topics'"
+				}
+			],
+			"readings": [
+				{
+					"authors": ["Predrag Klasnja", "Sunny Consolvo", "Wanda Pratt"],
+					"title": "How to Evaluate Technologies for Health Behavior Change in HCI Research",
+					"venue": "CHI",
+					"date": "2011",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1978942.1979396"
+				},
+				{
+					"authors": ["Geraldine Fitzpatrick", "Gunnar Ellingsen"],
+					"title": "A Review of 25 dates of CSCW Research in Healthcare: Contributions, Challenges, and Future Agendas",
+					"venue": "Computer Supported Cooperative Work (CSCW)",
+					"volume": 22,
+					"date": "2013",
+					"link": "https://link.springer.com/article/10.1007%252Fs10606-012-9168-0"
+				},
+				{
+					"authors": ["Pedro Sanches", "Axel Janson", "Pavel Karpashevich", "Camille Nadal", "Chengcheng Qu", "Claudia Daudén Roquet", "Muhammad Umair", "Charles Windlin", "Gavin Doherty", "Kristina Höök", "Corina Sas"],
+					"title": "HCI and Affective Health: Taking Stock of a Decade of Studies and Charting Future Research Directions",
+					"venue": "CHI",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3290605.3300475",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2022-01-13",
+			"type": "class",
+			"title": "Discussion of Health",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"title": "TBD"
+				}
+			]
+		},
+		{
+			"date": "2022-01-18",
+			"type": "class",
+			"title": "Overview of Accessibility and Aging",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#accessibility"
+				},
+				{
+					"name": "ASSETS",
+					"link": "https://assets21.sigaccess.org/technical_papers.html"
+				}
+			],
+			"readings": [
+				{
+					"authors": ["Jennifer Mankoff", "Gillian R. Hayes", "Devva Kasnitz"],
+					"title": "Disability Studies as a Source of Critical Inquiry for the Field of Assistive Technology",
+					"venue": "ASSETS",
+					"date": "2010",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1878803.1878807"
+				},
+				{
+					"authors": ["Jacob O. Wobbrock", "Shaun K. Kane", "Krzysztof Z. Gajos", "Susumu Harada", "Jon Froehlich"],
+					"title": "Ability-Based Design: Concept, Principles, and Examples",
+					"venue": "TACCESS",
+					"volume": 3,
+					"issue": 3,
+					"date": "2011",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1952383.1952384"
+				},
+				{
+					"authors": ["Shaun K. Kane", "Jeffrey P. Bigham", "Jacob O. Wobbrock"],
+					"title": "Slide Rule: Making Mobile Touch Screens Accessible to Blind People Using Multi-Touch Interaction Techniques",
+					"venue": "ASSETS",
+					"date": "2008",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1414471.1414487",
+					"optional": true
+				},
+				{
+					"authors": ["Cynthia L. Bennett", "Erin Brady", "Stacy M. Branham"],
+					"title": "Interdependence as a Frame for Assistive Technology Research and Design",
+					"date": "2018",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3234695.3236348",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2022-01-20",
+			"type": "class",
+			"title": "Discussion of Accessibility and Aging",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"title": "TBD"
+				}
+			]
+		},
+		{
+			"date": "2022-01-24",
+			"type": "assignments",
+			"title": "Paper Deconstruction",
+			"anchor": "paperdeconstruction",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889130"
+		},
+		{
+			"date": "2022-01-25",
+			"type": "class",
+			"title": "Overview of Interaction Beyond the Individual",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#interaction_beyond"
+				},
+				{
+					"name": "CSCW",
+					"link": "https://cscw.acm.org/2022/submit/papers.html"
+				},
+				{
+					"name": "GROUP",
+					"link": "https://group.acm.org/conferences/group22/submit.php"
+				}
+			],
+			"readings": [
+				{
+					"title": "Why CSCW Applications Fail: Problems in the Design and Evaluation of Organizational Interfaces",
+					"authors": ["Jonathan Grudin"],
+					"venue": "CSCW",
+					"date": "1988",
+					"link": "https://dl.acm.org/doi/10.1145/62266.62273"
+				},
+				{
+					"title": "Distance Matters",
+					"authors": ["Gary M. Olson", "Judith S. Olson"],
+					"venue": "Human-Computer Interaction",
+					"volume": 15,
+					"issue": "2-3",
+					"date": "2000",
+					"link": "https://www.tandfonline.com/doi/abs/10.1207/S15327051HCI1523_4"
+				},
+				{
+					"title": "A Familiar Face(book): Profile Elements as Signals in an Online Social Network",
+					"authors": ["Cliff Lampe", "Nicole Ellison", "Charles Steinfield"],
+					"venue": "CHI",
+					"date": "2007",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1240624.1240695"
+				}
+			]
+		},
+		{
+			"date": "2022-01-27",
+			"type": "class",
+			"title": "Discussion of Interaction Beyond the Individual",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"title": "TBD"
+				}
+			]
+		},
+		{
+			"date": "2022-02-01",
+			"type": "class",
+			"title": "Overview of Critical Computing, Sustainability, and Social Justice",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#critical_computing"
+				},
+				{
+					"name": "New Media & Society",
+					"link": "https://journals.sagepub.com/aims-scope/NMS"
+				},
+				{
+					"name": "LIMITS",
+					"link": "https://computingwithinlimits.org/2021/"
+				}
+			],
+			"readings": [
+				{
+					"authors":["Hrönn Brynjarsdóttir", "Maria Håkansson", "James Pierce", "Eric P.S. Baumer", "Carl DiSalvo", "Phoebe Sengers"],
+					"title": "Sustainability Unpersuaded: How Persuasion Narrows Our Vision of Sustainability",
+					"venue": "CHI",
+					"date": "2012",
+					"link": "https://dl.acm.org/doi/abs/10.1145/2207676.2208539"
+				},
+				{
+					"authors":["Ihudiya Finda Ogbonnaya-Ogburu", "Angela D.R. Smith", "Alexandra To", "Kentaro Toyama"],
+					"title": "Critical Race Theory for HCI",
+					"venue": "CHI",
+					"date": "2020",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376392"
+				},
+				{
+					"authors": ["Joyojeet Pal"],
+					"title": "CHI4Good or Good4CHI",
+					"venue": "alt.CHI",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/10.1145/3027063.3052766"
+				},
+				{
+					"authors":["Yolanda A. Rankin", "Jakita O. Thomas"],
+					"title": "Straighten Up and Fly Right: Rethinking Intersectionaity in HCI Research",
+					"venue": "Interactions",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3363033",
+					"optional": true
+				},
+				{
+					"authors": ["Os Keyes"],
+					"title": "The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition",
+					"venue": "PACM HCI",
+					"volume": 2,
+					"issue": "CSCW",
+					"date": "2018",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3274357",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2022-02-03",
+			"type": "class",
+			"title": "Discussion of Critical Computing, Sustainability, and Social Justice",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"title": "TBD"
+				}
+			]
+		},
+		{
+			"date": "2022-02-04",
+			"type": "assignments",
+			"title": "Proposal 1 Draft",
+			"anchor": "proposal1draft",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889113"
+		},
+		{
+			"date": "2022-02-08",
+			"type": "class",
+			"title": "Proposal 1 Feedback"
+		},
+		{
+			"date": "2022-02-08",
+			"type": "assignments",
+			"title": "TBD",
+			"anchor": "proposal1feedback",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889114"
+		},
+		{
+			"date": "2022-02-10",
+			"type": "class",
+			"title": "Overview of User Interface Software & Technology",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee (Building Devices)",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#building_devices"
+				},
+				{
+					"name": "CHI Subcommittee (Interacting with Devices)",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#interacting_devices"
+				},
+				{
+					"name": "CHI Subcommittee (Blending Interaction)",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#blending_interaction"
+				},
+				{
+					"name": "UIST",
+					"link": "https://uist.acm.org/uist2021/cfp.html",
+					"notes": "Read 'Appropriate Topics'"
+				},
+				{
+					"name": "EICS",
+					"link": "https://eics.acm.org/eics2021/submission_fullpapers.html"
+				},
+				{
+					"name": "ISS",
+					"link": "https://iss.acm.org/2021/authors/papers/"
+				},
+				{
+					"name": "VRST",
+					"link": "https://vrst.acm.org/vrst2021/submissions/"
+				}
+			],
+			"readings": [
+				{
+					"authors":["Brad Myers", "Scott E. Hudson", "Randy Pausch"],
+					"title": "Past, Present, and Future of User Interface Sotware Tools",
+					"venue": "TOCHI",
+					"volume": 7,
+					"issue": 1,
+					"date": "2000",
+					"link": "https://dl.acm.org/doi/abs/10.1145/344949.344959"
+				},
+				{
+					"authors": ["Hiroshi Ishii", "Brygg Ullmer"],
+					"title": "Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms",
+					"venue": "CHI",
+					"date": "1997",
+					"link": "https://dl.acm.org/doi/10.1145/258549.258715"
+				},
+				{
+					"authors": ["Jun Rekimoto"],
+					"title": "Pick-and-drop: a Direct Manipulation Technique for Multiple Computer Envirionments",
+					"venue": "UIST",
+					"date": "1997",
+					"link": "https://dl.acm.org/doi/10.1145/263407.263505"
+				},
+				{
+					"authors":["James Fogarty"],
+					"title": "Code and Contribution in Interactive Systems Research",
+					"venue": "#HCI.Tools Workshop at CHI",
+					"date": "2017",
+					"link": "https://homes.cs.washington.edu/~jfogarty/publications/workshop-chi2017-codeandcontribution.pdf",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2022-02-11",
+			"type": "assignments",
+			"title": "Proposal 1 Final Submission",
+			"anchor": "proposal1final",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889116"
+		},
+		{
+			"date": "2022-02-15",
+			"type": "class",
+			"title": "Discussion of User Interface Software & Technology",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"title": "TBD"
+				}
+			]
+		},
+		{
+			"date": "2022-02-17",
+			"type": "class",
+			"leaders": ["TBD"],
+			"title": "Overview of Learning, Education, and Families",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#learning"
+				},
+				{
+					"name": "IDC",
+					"link": "https://idc.acm.org/2022/theme-general-topics/"
+				},
+				{
+					"name": "Learning at Scale",
+					"link": "https://learningatscale.acm.org/las2022/call-for-papers/"
+				}
+			],
+			"readings": [
+				{
+					"authors": ["Allison Druin"],
+					"title": "Cooperative Inquiry: Developing New Technologies for Children and with Children",
+					"venue": "CHI",
+					"date": "1999",
+					"link": "https://dl.acm.org/doi/abs/10.1145/302979.303166"
+				},
+				{
+					"authors": ["Philip J. Guo", "Juho Kim", "Rob Rubin"],
+					"title": "How Video Production Affects Student Engagement: an Empirical Study of MOOC Videos",
+					"date": "2014",
+					"link": "https://dl.acm.org/doi/abs/10.1145/2556325.2566239"
+				},
+				{
+					"authors": ["Elliot Soloway", "Mark Guzdial", "Kenneth E. Hay"],
+					"title": "Learner-Centered Design: The Challenge for HCI in the 21st Century",
+					"venue": "Interactions",
+					"volume": 1,
+					"issue": 2,
+					"date": "1994",
+					"link": "https://dl.acm.org/doi/10.1145/174809.174813"
+				},
+				{
+					"authors": ["Saba Kawas", "Ye Yuan", "Akeiylah DeWitt", "Qiao Jin", "Susanne Kirchner", "Abagail Bilger", "Ethan Grantham", "Julie A. Kientz", "Andrea Tartaro", "Svetlana Yarosh"],
+					"title": "Another Decade of IDC Research: Examining and Reflecting on Values and Ethics",
+					"venue": "IDC",
+					"date": "2020",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3392063.3394436",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2022-02-22",
+			"type": "class",
+			"leaders": ["TBD"],
+			"title": "Discussion on Learning, Education, and Families",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"authors": ["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-02-24",
+			"type": "class",
+			"leaders": ["TBD"],
+			"title": "Overview of TBD",
+			"readings": [
+				{
+					"authors": ["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-03-01",
+			"type": "class",
+			"leaders": ["TBD"],
+			"title": "Discussion of TBD",
+			"readings": [
+				{
+					"authors": ["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-03-03",
+			"type": "class",
+			"leaders": ["TBD"],
+			"title": "Overview of TBD",
+			"readings": [
+				{
+					"authors":["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-03-08",
+			"type": "class",
+			"leaders": ["TBD"],
+			"title": "Discussion of TBD",
+			"readings": [
+				{
+					"authors": ["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-03-08",
+			"type": "assignments",
+			"title": "Proposal 2 Draft",
+			"anchor": "proposal2draft",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889119"
+		},
+		{
+			"date": "2022-03-10",
+			"type": "class",
+			"title": "Proposal 2 Feedback"
+		},
+		{
+			"date": "2022-03-10",
+			"type": "assignments",
+			"title": "TBD",
+			"anchor": "proposal2feedback",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889124"
+		},
+		{
+			"date": "2022-03-15",
+			"type": "assignments",
+			"title": "Proposal 2 Final Submission",
+			"anchor": "proposal2final",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889125"
+		}
+	]
+}
