@@ -35,7 +35,8 @@
 					"link": "https://people.cs.vt.edu/srh/Downloads/HCIJournalTheThreeParadigmsofHCI.pdf",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/01_04_22-introduction.pdf"
 		},
 		{
 			"date": "2022-01-06",
