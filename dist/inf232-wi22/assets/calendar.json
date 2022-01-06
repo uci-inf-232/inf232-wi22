@@ -136,7 +136,18 @@
 			"leaders": ["Jo", "Lidia", "Maryam", "Yawen"],
 			"readings": [
 				{
-					"title": "TBD"
+					"authors": ["Maia Jacobs", "Jeffrey He", "Melania F. Pradier", "Barbara Lam", "Andrew C. Ahn", "Thomas H. McCoy", "Roy H. Perlis", "Finale Doshi-Velez", "Krzystof Z. Gajos"],
+					"title": "Designing AI for Trust and Collaboration in Time-Constrained Medical Decisions: A Sociotechnical Lens",
+					"venue": "CHI",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/10.1145/3411764.3445385"
+				},
+				{
+					"authors": ["Mayara Costa Figueiredo", "Yunan Chen"],
+					"title": "Health Data in Fertility Care: An Ecological Perspective",
+					"venue": "CHI",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3411764.3445189"
 				}
 			]
 		},
