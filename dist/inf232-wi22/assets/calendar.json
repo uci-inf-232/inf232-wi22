@@ -74,13 +74,14 @@
 					"link": "https://link.springer.com/book/10.1007/978-1-4939-0378-8",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/01_06_22-research_contributions.pdf"
 		},
 		{
 			"date": "2022-01-11",
 			"type": "class",
 			"title": "Overview of Health",
-			"leaders": ["TBD"],
+			"leaders": ["Jo", "Lidia", "Maryam", "Yawen"],
 			"venues": [
 				{
 					"name": "CHI Subcommittee",
@@ -132,7 +133,7 @@
 			"date": "2022-01-13",
 			"type": "class",
 			"title": "Discussion of Health",
-			"leaders": ["TBD"],
+			"leaders": ["Jo", "Lidia", "Maryam", "Yawen"],
 			"readings": [
 				{
 					"title": "TBD"
