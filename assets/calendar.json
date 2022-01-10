@@ -154,222 +154,8 @@
 		{
 			"date": "2022-01-18",
 			"type": "class",
-			"title": "Overview of Accessibility and Aging",
-			"leaders": ["TBD"],
-			"venues": [
-				{
-					"name": "CHI Subcommittee",
-					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#accessibility"
-				},
-				{
-					"name": "ASSETS",
-					"link": "https://assets21.sigaccess.org/technical_papers.html"
-				}
-			],
-			"readings": [
-				{
-					"authors": ["Jennifer Mankoff", "Gillian R. Hayes", "Devva Kasnitz"],
-					"title": "Disability Studies as a Source of Critical Inquiry for the Field of Assistive Technology",
-					"venue": "ASSETS",
-					"date": "2010",
-					"link": "https://dl.acm.org/doi/abs/10.1145/1878803.1878807"
-				},
-				{
-					"authors": ["Jacob O. Wobbrock", "Shaun K. Kane", "Krzysztof Z. Gajos", "Susumu Harada", "Jon Froehlich"],
-					"title": "Ability-Based Design: Concept, Principles, and Examples",
-					"venue": "TACCESS",
-					"volume": 3,
-					"issue": 3,
-					"date": "2011",
-					"link": "https://dl.acm.org/doi/abs/10.1145/1952383.1952384"
-				},
-				{
-					"authors": ["Shaun K. Kane", "Jeffrey P. Bigham", "Jacob O. Wobbrock"],
-					"title": "Slide Rule: Making Mobile Touch Screens Accessible to Blind People Using Multi-Touch Interaction Techniques",
-					"venue": "ASSETS",
-					"date": "2008",
-					"link": "https://dl.acm.org/doi/abs/10.1145/1414471.1414487",
-					"optional": true
-				},
-				{
-					"authors": ["Cynthia L. Bennett", "Erin Brady", "Stacy M. Branham"],
-					"title": "Interdependence as a Frame for Assistive Technology Research and Design",
-					"date": "2018",
-					"link": "https://dl.acm.org/doi/abs/10.1145/3234695.3236348",
-					"optional": true
-				}
-			]
-		},
-		{
-			"date": "2022-01-20",
-			"type": "class",
-			"title": "Discussion of Accessibility and Aging",
-			"leaders": ["TBD"],
-			"readings": [
-				{
-					"title": "TBD"
-				}
-			]
-		},
-		{
-			"date": "2022-01-24",
-			"type": "assignments",
-			"title": "Paper Deconstruction",
-			"anchor": "paperdeconstruction",
-			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889130"
-		},
-		{
-			"date": "2022-01-25",
-			"type": "class",
-			"title": "Overview of Interaction Beyond the Individual",
-			"leaders": ["TBD"],
-			"venues": [
-				{
-					"name": "CHI Subcommittee",
-					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#interaction_beyond"
-				},
-				{
-					"name": "CSCW",
-					"link": "https://cscw.acm.org/2022/submit/papers.html"
-				},
-				{
-					"name": "GROUP",
-					"link": "https://group.acm.org/conferences/group22/submit.php"
-				}
-			],
-			"readings": [
-				{
-					"title": "Why CSCW Applications Fail: Problems in the Design and Evaluation of Organizational Interfaces",
-					"authors": ["Jonathan Grudin"],
-					"venue": "CSCW",
-					"date": "1988",
-					"link": "https://dl.acm.org/doi/10.1145/62266.62273"
-				},
-				{
-					"title": "Distance Matters",
-					"authors": ["Gary M. Olson", "Judith S. Olson"],
-					"venue": "Human-Computer Interaction",
-					"volume": 15,
-					"issue": "2-3",
-					"date": "2000",
-					"link": "https://www.tandfonline.com/doi/abs/10.1207/S15327051HCI1523_4"
-				},
-				{
-					"title": "A Familiar Face(book): Profile Elements as Signals in an Online Social Network",
-					"authors": ["Cliff Lampe", "Nicole Ellison", "Charles Steinfield"],
-					"venue": "CHI",
-					"date": "2007",
-					"link": "https://dl.acm.org/doi/abs/10.1145/1240624.1240695"
-				}
-			]
-		},
-		{
-			"date": "2022-01-27",
-			"type": "class",
-			"title": "Discussion of Interaction Beyond the Individual",
-			"leaders": ["TBD"],
-			"readings": [
-				{
-					"title": "TBD"
-				}
-			]
-		},
-		{
-			"date": "2022-02-01",
-			"type": "class",
-			"title": "Overview of Critical Computing, Sustainability, and Social Justice",
-			"leaders": ["TBD"],
-			"venues": [
-				{
-					"name": "CHI Subcommittee",
-					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#critical_computing"
-				},
-				{
-					"name": "New Media & Society",
-					"link": "https://journals.sagepub.com/aims-scope/NMS"
-				},
-				{
-					"name": "LIMITS",
-					"link": "https://computingwithinlimits.org/2021/"
-				}
-			],
-			"readings": [
-				{
-					"authors":["Hrönn Brynjarsdóttir", "Maria Håkansson", "James Pierce", "Eric P.S. Baumer", "Carl DiSalvo", "Phoebe Sengers"],
-					"title": "Sustainability Unpersuaded: How Persuasion Narrows Our Vision of Sustainability",
-					"venue": "CHI",
-					"date": "2012",
-					"link": "https://dl.acm.org/doi/abs/10.1145/2207676.2208539"
-				},
-				{
-					"authors":["Ihudiya Finda Ogbonnaya-Ogburu", "Angela D.R. Smith", "Alexandra To", "Kentaro Toyama"],
-					"title": "Critical Race Theory for HCI",
-					"venue": "CHI",
-					"date": "2020",
-					"link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376392"
-				},
-				{
-					"authors": ["Joyojeet Pal"],
-					"title": "CHI4Good or Good4CHI",
-					"venue": "alt.CHI",
-					"date": "2017",
-					"link": "https://dl.acm.org/doi/10.1145/3027063.3052766"
-				},
-				{
-					"authors":["Yolanda A. Rankin", "Jakita O. Thomas"],
-					"title": "Straighten Up and Fly Right: Rethinking Intersectionaity in HCI Research",
-					"venue": "Interactions",
-					"date": "2019",
-					"link": "https://dl.acm.org/doi/abs/10.1145/3363033",
-					"optional": true
-				},
-				{
-					"authors": ["Os Keyes"],
-					"title": "The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition",
-					"venue": "PACM HCI",
-					"volume": 2,
-					"issue": "CSCW",
-					"date": "2018",
-					"link": "https://dl.acm.org/doi/abs/10.1145/3274357",
-					"optional": true
-				}
-			]
-		},
-		{
-			"date": "2022-02-03",
-			"type": "class",
-			"title": "Discussion of Critical Computing, Sustainability, and Social Justice",
-			"leaders": ["TBD"],
-			"readings": [
-				{
-					"title": "TBD"
-				}
-			]
-		},
-		{
-			"date": "2022-02-04",
-			"type": "assignments",
-			"title": "Proposal 1 Draft",
-			"anchor": "proposal1draft",
-			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889113"
-		},
-		{
-			"date": "2022-02-08",
-			"type": "class",
-			"title": "Proposal 1 Feedback"
-		},
-		{
-			"date": "2022-02-08",
-			"type": "assignments",
-			"title": "TBD",
-			"anchor": "proposal1feedback",
-			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889114"
-		},
-		{
-			"date": "2022-02-10",
-			"type": "class",
 			"title": "Overview of User Interface Software & Technology",
-			"leaders": ["TBD"],
+			"leaders": ["Jinseo", "Yotam"],
 			"venues": [
 				{
 					"name": "CHI Subcommittee (Building Devices)",
@@ -436,6 +222,220 @@
 			]
 		},
 		{
+			"date": "2022-01-20",
+			"type": "class",
+			"title": "Discussion of User Interface Software & Technology",
+			"leaders": ["Jinseo", "Yotam"],
+			"readings": [
+				{
+					"title": "TBD"
+				}
+			]
+		},
+		{
+			"date": "2022-01-24",
+			"type": "assignments",
+			"title": "Paper Deconstruction",
+			"anchor": "paperdeconstruction",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889130"
+		},
+		{
+			"date": "2022-01-25",
+			"type": "class",
+			"title": "Overview of Interaction Beyond the Individual",
+			"leaders": ["Dennis", "Vicky"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#interaction_beyond"
+				},
+				{
+					"name": "CSCW",
+					"link": "https://cscw.acm.org/2022/submit/papers.html"
+				},
+				{
+					"name": "GROUP",
+					"link": "https://group.acm.org/conferences/group22/submit.php"
+				}
+			],
+			"readings": [
+				{
+					"title": "Why CSCW Applications Fail: Problems in the Design and Evaluation of Organizational Interfaces",
+					"authors": ["Jonathan Grudin"],
+					"venue": "CSCW",
+					"date": "1988",
+					"link": "https://dl.acm.org/doi/10.1145/62266.62273"
+				},
+				{
+					"title": "Distance Matters",
+					"authors": ["Gary M. Olson", "Judith S. Olson"],
+					"venue": "Human-Computer Interaction",
+					"volume": 15,
+					"issue": "2-3",
+					"date": "2000",
+					"link": "https://www.tandfonline.com/doi/abs/10.1207/S15327051HCI1523_4"
+				},
+				{
+					"title": "A Familiar Face(book): Profile Elements as Signals in an Online Social Network",
+					"authors": ["Cliff Lampe", "Nicole Ellison", "Charles Steinfield"],
+					"venue": "CHI",
+					"date": "2007",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1240624.1240695"
+				}
+			]
+		},
+		{
+			"date": "2022-01-27",
+			"type": "class",
+			"title": "Discussion of Interaction Beyond the Individual",
+			"leaders": ["Dennis", "Vicky"],
+			"readings": [
+				{
+					"title": "TBD"
+				}
+			]
+		},
+		{
+			"date": "2022-02-01",
+			"type": "class",
+			"title": "Overview of Critical Computing, Sustainability, and Social Justice",
+			"leaders": ["Jensine", "Rachel", "Whitney"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#critical_computing"
+				},
+				{
+					"name": "New Media & Society",
+					"link": "https://journals.sagepub.com/aims-scope/NMS"
+				},
+				{
+					"name": "LIMITS",
+					"link": "https://computingwithinlimits.org/2021/"
+				}
+			],
+			"readings": [
+				{
+					"authors":["Hrönn Brynjarsdóttir", "Maria Håkansson", "James Pierce", "Eric P.S. Baumer", "Carl DiSalvo", "Phoebe Sengers"],
+					"title": "Sustainability Unpersuaded: How Persuasion Narrows Our Vision of Sustainability",
+					"venue": "CHI",
+					"date": "2012",
+					"link": "https://dl.acm.org/doi/abs/10.1145/2207676.2208539"
+				},
+				{
+					"authors":["Ihudiya Finda Ogbonnaya-Ogburu", "Angela D.R. Smith", "Alexandra To", "Kentaro Toyama"],
+					"title": "Critical Race Theory for HCI",
+					"venue": "CHI",
+					"date": "2020",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376392"
+				},
+				{
+					"authors": ["Joyojeet Pal"],
+					"title": "CHI4Good or Good4CHI",
+					"venue": "alt.CHI",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/10.1145/3027063.3052766"
+				},
+				{
+					"authors":["Yolanda A. Rankin", "Jakita O. Thomas"],
+					"title": "Straighten Up and Fly Right: Rethinking Intersectionaity in HCI Research",
+					"venue": "Interactions",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3363033",
+					"optional": true
+				},
+				{
+					"authors": ["Os Keyes"],
+					"title": "The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition",
+					"venue": "PACM HCI",
+					"volume": 2,
+					"issue": "CSCW",
+					"date": "2018",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3274357",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2022-02-03",
+			"type": "class",
+			"title": "Discussion of Critical Computing, Sustainability, and Social Justice",
+			"leaders": ["Jensine", "Rachel", "Whitney"],
+			"readings": [
+				{
+					"title": "TBD"
+				}
+			]
+		},
+		{
+			"date": "2022-02-04",
+			"type": "assignments",
+			"title": "Proposal 1 Draft",
+			"anchor": "proposal1draft",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889113"
+		},
+		{
+			"date": "2022-02-08",
+			"type": "class",
+			"title": "Proposal 1 Feedback"
+		},
+		{
+			"date": "2022-02-08",
+			"type": "assignments",
+			"title": "TBD",
+			"anchor": "proposal1feedback",
+			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889114"
+		},
+		{
+			"date": "2022-02-10",
+			"type": "class",
+			"title": "Overview of Accessibility and Aging",
+			"leaders": ["Cameron", "Julie", "Kelly"],
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#accessibility"
+				},
+				{
+					"name": "ASSETS",
+					"link": "https://assets21.sigaccess.org/technical_papers.html"
+				}
+			],
+			"readings": [
+				{
+					"authors": ["Jennifer Mankoff", "Gillian R. Hayes", "Devva Kasnitz"],
+					"title": "Disability Studies as a Source of Critical Inquiry for the Field of Assistive Technology",
+					"venue": "ASSETS",
+					"date": "2010",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1878803.1878807"
+				},
+				{
+					"authors": ["Jacob O. Wobbrock", "Shaun K. Kane", "Krzysztof Z. Gajos", "Susumu Harada", "Jon Froehlich"],
+					"title": "Ability-Based Design: Concept, Principles, and Examples",
+					"venue": "TACCESS",
+					"volume": 3,
+					"issue": 3,
+					"date": "2011",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1952383.1952384"
+				},
+				{
+					"authors": ["Shaun K. Kane", "Jeffrey P. Bigham", "Jacob O. Wobbrock"],
+					"title": "Slide Rule: Making Mobile Touch Screens Accessible to Blind People Using Multi-Touch Interaction Techniques",
+					"venue": "ASSETS",
+					"date": "2008",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1414471.1414487",
+					"optional": true
+				},
+				{
+					"authors": ["Cynthia L. Bennett", "Erin Brady", "Stacy M. Branham"],
+					"title": "Interdependence as a Frame for Assistive Technology Research and Design",
+					"date": "2018",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3234695.3236348",
+					"optional": true
+				}
+			]
+		},
+		{
 			"date": "2022-02-11",
 			"type": "assignments",
 			"title": "Proposal 1 Final Submission",
@@ -445,8 +445,8 @@
 		{
 			"date": "2022-02-15",
 			"type": "class",
-			"title": "Discussion of User Interface Software & Technology",
-			"leaders": ["TBD"],
+			"title": "Discussion of Accessibility and Aging",
+			"leaders": ["Cameron", "Julie", "Kelly"],
 			"readings": [
 				{
 					"title": "TBD"
@@ -456,9 +456,52 @@
 		{
 			"date": "2022-02-17",
 			"type": "class",
-			"leaders": ["TBD"],
+			"leaders": ["Adrianna", "Kimberly", "Nadia"],
+			"title": "Overview of Games and Play",
+			"readings": [
+				{
+					"authors":["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-02-22",
+			"type": "class",
+			"leaders": ["Adrianna", "Kimberly", "Nadia"],
+			"title": "Discussion of Games and Play",
+			"readings": [
+				{
+					"authors": ["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-02-24",
+			"type": "class",
+			"leaders": ["Tianyu", "Andrew"],
+			"title": "Overview of Privacy and Security",
+			"readings": [
+				{
+					"authors": ["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-03-01",
+			"type": "class",
+			"leaders": ["Tianyu", "Andrew"],
+			"title": "Discussion of Privacy and Security",
+			"readings": [
+				{
+					"authors": ["TBD"]
+				}
+			]
+		},
+		{
+			"date": "2022-03-03",
+			"type": "class",
+			"leaders": ["Sophie", "Xinru"],
 			"title": "Overview of Learning, Education, and Families",
-			"leaders": ["TBD"],
 			"venues": [
 				{
 					"name": "CHI Subcommittee",
@@ -507,55 +550,10 @@
 			]
 		},
 		{
-			"date": "2022-02-22",
-			"type": "class",
-			"leaders": ["TBD"],
-			"title": "Discussion on Learning, Education, and Families",
-			"leaders": ["TBD"],
-			"readings": [
-				{
-					"authors": ["TBD"]
-				}
-			]
-		},
-		{
-			"date": "2022-02-24",
-			"type": "class",
-			"leaders": ["TBD"],
-			"title": "Overview of TBD",
-			"readings": [
-				{
-					"authors": ["TBD"]
-				}
-			]
-		},
-		{
-			"date": "2022-03-01",
-			"type": "class",
-			"leaders": ["TBD"],
-			"title": "Discussion of TBD",
-			"readings": [
-				{
-					"authors": ["TBD"]
-				}
-			]
-		},
-		{
-			"date": "2022-03-03",
-			"type": "class",
-			"leaders": ["TBD"],
-			"title": "Overview of TBD",
-			"readings": [
-				{
-					"authors":["TBD"]
-				}
-			]
-		},
-		{
 			"date": "2022-03-08",
 			"type": "class",
-			"leaders": ["TBD"],
-			"title": "Discussion of TBD",
+			"leaders": ["Sophie", "Xinru"],
+			"title": "Discussion on Learning, Education, and Families",
 			"readings": [
 				{
 					"authors": ["TBD"]
