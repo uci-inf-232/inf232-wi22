@@ -228,7 +228,18 @@
 			"leaders": ["Jinseo", "Yotam"],
 			"readings": [
 				{
-					"title": "TBD"
+					"authors": ["Jason Wu", "Xiaoyi Zhang", "Jeffrey Nichols", "Jeffrey P. Bigham"],
+					"title": "Screen Parsing: Towards Reverse Engineering of UI Models from Screenshots",
+					"venue": "UIST",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3472749.3474763"
+				},
+				{
+					"authors": ["Jason Wu", "Xiaoyi Zhang", "Jeffrey Nichols", "Jeffrey P. Bigham"],
+					"title": "SensiCut: Material-Aware Laser Cutting Using Speckle Sensing and Deep Learning",
+					"venue": "UIST",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3472749.3474763"
 				}
 			]
 		},
@@ -478,7 +489,7 @@
 		{
 			"date": "2022-02-24",
 			"type": "class",
-			"leaders": ["Tianyu", "Andrew"],
+			"leaders": ["Andrew", "Mojtaba", "Tianyu"],
 			"title": "Overview of Privacy and Security",
 			"readings": [
 				{
@@ -489,7 +500,7 @@
 		{
 			"date": "2022-03-01",
 			"type": "class",
-			"leaders": ["Tianyu", "Andrew"],
+			"leaders": ["Andrew", "Mojtaba", "Tianyu"],
 			"title": "Discussion of Privacy and Security",
 			"readings": [
 				{
