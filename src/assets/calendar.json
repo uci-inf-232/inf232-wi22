@@ -127,7 +127,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3290605.3300475",
 					"optional": true
 				}
-			]
+			],
+			"slides":"assets/slides/01_11_22-overview_health.pdf"
 		},
 		{
 			"date": "2022-01-13",
@@ -149,7 +150,8 @@
 					"date": "2021",
 					"link": "https://dl.acm.org/doi/abs/10.1145/3411764.3445189"
 				}
-			]
+			],
+			"slides":"assets/slides/01_13_22-discussion_health.pdf"
 		},
 		{
 			"date": "2022-01-18",
@@ -219,7 +221,8 @@
 					"link": "https://homes.cs.washington.edu/~jfogarty/publications/workshop-chi2017-codeandcontribution.pdf",
 					"optional": true
 				}
-			]
+			],
+			"slides":"assets/slides/01_18_22-overview_uist.pdf"
 		},
 		{
 			"date": "2022-01-20",
