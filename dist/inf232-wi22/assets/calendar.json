@@ -244,7 +244,8 @@
 					"date": "2021",
 					"link": "https://dl.acm.org/doi/10.1145/3472749.3474733"
 				}
-			]
+			],
+			"slides": "assets/slides/01_20_22-discussion_uist.pdf"
 		},
 		{
 			"date": "2022-01-24",
@@ -322,11 +323,19 @@
 				{
 					"title": "Join, Stay or Go?: A Closer Look at Members' Life Cycles in Online Health Communities",
 					"authors": ["Zheng Yao", "Diyi Yang", "John M. Levine", "Carissa A. Low", "Tenbroeck Smith", "Haiyi Zhu", "Robert E. Kraut"],
-					"venue": "PACM HCI: CSCW",
+					"venue": "PACM HCI",
+					"volume": 5,
+					"issue": "CSCW1",
 					"date": "2021",
 					"link": "https://dl.acm.org/doi/10.1145/3449245"
 				}
 			]
+		},
+		{
+			"date": "2022-01-28",
+			"type": "assignments",
+			"title": "Proposal 1 Groups",
+			"anchor": "proposal1groups"
 		},
 		{
 			"date": "2022-02-01",
@@ -415,7 +424,7 @@
 		{
 			"date": "2022-02-08",
 			"type": "assignments",
-			"title": "TBD",
+			"title": "Peer Feedback on Proposal 1",
 			"anchor": "proposal1feedback",
 			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889114"
 		},

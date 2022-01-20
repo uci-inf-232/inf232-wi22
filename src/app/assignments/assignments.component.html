@@ -62,7 +62,12 @@
    </ul>
    <p>Pretend you are a researcher whose work is at the intersection of two of these areas (e.g., Health and Social Justice, Accessibility and Critical Computing). You may pick any two of these four areas, though it's encouraged that at least one is an area you are less familiar with. Identify a research topic that sits at that intersection. Develop two proposals, one for each call, which introduces the importance of your research topic and briefly outlines a project that you could conduct.</p>
    <p>The research proposals will help you develop the skill of articulating the importance of research topics in HCI, and help you describe the research value of a topic to multiple audiences. For examples of real calls for proposals in these kinds of areas, see NSF's solicitations relating to <a href="https://www.nsf.gov/pubs/2022/nsf22533/nsf22533.htm#toc">The Future of Work</a> and <a href="https://www.nsf.gov/pubs/2021/nsf21530/nsf21530.htm#toc">Smart Health in the AI Era</a>.</p>
-   <p>The research proposal must be completed in groups of two to three. Individuals or larger groups will only be allowed under exceptional circumstances.</p>
+   <p id="proposal1groups">The research proposal must be completed in groups of two to three. Individuals or larger groups will only be allowed under exceptional circumstances.</p>
+   <span *ngFor="let assignment of assignments">
+      <div *ngIf="assignment.anchor == 'proposal1groups'">
+         <p>Please let Daniel know who is in your group by {{assignment.dueLong}}.</p>
+      </div>
+   </span>
    <h3>Structure</h3>
    <p>Each proposal should include the following (about 2 pages):</p>
    <ul>
@@ -82,7 +87,7 @@
       </div>
    </span>
    <h3 id="proposal1feedback">Feedback</h3>
-   <p>We will discuss the proposals in the following class session. The format is still TBD; there may be presentations or peer feedback ahead of the class session.</p>
+   <p>Your group will be paired with another group. Please read the other group's draft on Perusall and leave feedback. In-class, we will discuss your proposals and the feedback you received.</p>
    <h3 id="proposal1final">Final Submission</h3>
    <p>You are encouraged to iterate on your draft after the feedback session, addressing comments to form a stronger proposal. It is expected that all drafts will have room for improvement, but the amount of iteration required will vary by group.</p>
    <span *ngFor="let assignment of assignments">
@@ -105,7 +110,7 @@
       </ul>
    </ul>
    <h2 id="proposal2draft">Research Proposal 2</h2>
-   <p>Proposal 2 follows an identical structure to Proposal 1, with the funding agency instead put out four new calls for proposals:</p>
+   <p>Proposal 2 follows an identical structure to Proposal 1. However, the funding agency has instead put out four new calls for proposals:</p>
    <ul>
       <li>The Future of Accessibility and Aging</li>
       <li>The Future of Games and Play</li>
