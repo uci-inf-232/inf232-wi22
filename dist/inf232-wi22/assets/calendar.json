@@ -295,6 +295,14 @@
 					"venue": "CHI",
 					"date": "2007",
 					"link": "https://dl.acm.org/doi/abs/10.1145/1240624.1240695"
+				},
+				{
+					"title": "The Trouble with Social Computing Systems Research",
+					"authors": ["Michael S. Bernstein", "Mark S. Ackerman", "Ed H. Chi", "Robert C. Miller"],
+					"venue": "alt.CHI",
+					"date": "2011",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1979742.1979618",
+					"optional": true
 				}
 			]
 		},
@@ -305,7 +313,18 @@
 			"leaders": ["Dennis", "Vicki"],
 			"readings": [
 				{
-					"title": "TBD"
+					"title": "MeetingCoach: An Intelligent Dashboard for Supporting Effective & Inclusive Meetings",
+					"authors": ["Samiha Samrose", "Daniel McDuff", "Robert Sim", "Jina Suh", "Kael Rowan", "Javier Hernandez", "Sean Rintel", "Kevin Moynihan", "Mary Czerwinski"],
+					"venue": "CHI",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/10.1145/3411764.3445615"
+				},
+				{
+					"title": "Join, Stay or Go?: A Closer Look at Members' Life Cycles in Online Health Communities",
+					"authors": ["Zheng Yao", "Diyi Yang", "John M. Levine", "Carissa A. Low", "Tenbroeck Smith", "Haiyi Zhu", "Robert E. Kraut"],
+					"venue": "PACM HCI: CSCW",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/10.1145/3449245"
 				}
 			]
 		},
@@ -494,9 +513,34 @@
 			"type": "class",
 			"leaders": ["Andrew", "Mojtaba", "Tianyu"],
 			"title": "Overview of Privacy and Security",
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#privacy"
+				},
+				{
+					"name": "USENIX Security",
+					"link": "https://www.usenix.org/conference/usenixsecurity22/call-for-papers"
+				},
+				{
+					"name": "SOUPS",
+					"link": "https://www.usenix.org/sites/default/files/soups21_cfp_021921.pdf"
+				}
+			],
 			"readings": [
 				{
-					"authors": ["TBD"]
+					"authors": ["Rachna Dhamija", "J. D. Tygar", "Marti Hearst"],
+					"title": "Why Phishing Works",
+					"venue": "CHI",
+					"year": "2006",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1124772.1124861"
+				},
+				{
+					"authors": ["Alma Whitten", "J.D. Tygar"],
+					"title": "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0",
+					"venue": "USENIX Security",
+					"year": "1999",
+					"link": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten.ps"
 				}
 			]
 		},
