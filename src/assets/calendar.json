@@ -305,7 +305,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/1979742.1979618",
 					"optional": true
 				}
-			]
+			],
+			"slides":"assets/slides/01_25_22-overview_cscw.pdf"
 		},
 		{
 			"date": "2022-01-27",
@@ -478,7 +479,7 @@
 			]
 		},
 		{
-			"date": "2022-02-11",
+			"date": "2022-02-14",
 			"type": "assignments",
 			"title": "Proposal 1 Final Submission",
 			"anchor": "proposal1final",
