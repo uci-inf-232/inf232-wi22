@@ -330,7 +330,8 @@
 					"date": "2021",
 					"link": "https://dl.acm.org/doi/10.1145/3449245"
 				}
-			]
+			],
+			"slides":"assets/slides/01_27_22-discussion_cscw.pdf"
 		},
 		{
 			"date": "2022-01-28",
