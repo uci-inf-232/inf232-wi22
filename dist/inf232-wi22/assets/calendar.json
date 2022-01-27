@@ -406,7 +406,20 @@
 			"leaders": ["Jensine", "Rachel", "Whitney"],
 			"readings": [
 				{
-					"title": "TBD"
+					"authors": ["Angelika Strohmayer", "Jenn Clamen", "Mary Laing"],
+					"title": "Technologies for Social Justice: Lessons from Sex Workers on the Front Lines",
+					"venue": "CHI",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/10.1145/3290605.3300882"
+				},
+				{
+					"authors": ["Silvia Lindtner", "Seyram Avle"],
+					"title": "Tinkering with Governance: Technopolitics and the Economization of Citizenship",
+					"venue": "PACM HCI",
+					"volume": 1,
+					"issue": "CSCW",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3134705"
 				}
 			]
 		},
@@ -542,14 +555,14 @@
 					"authors": ["Rachna Dhamija", "J. D. Tygar", "Marti Hearst"],
 					"title": "Why Phishing Works",
 					"venue": "CHI",
-					"year": "2006",
+					"date": "2006",
 					"link": "https://dl.acm.org/doi/abs/10.1145/1124772.1124861"
 				},
 				{
 					"authors": ["Alma Whitten", "J.D. Tygar"],
 					"title": "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0",
 					"venue": "USENIX Security",
-					"year": "1999",
+					"date": "1999",
 					"link": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten.ps"
 				}
 			]
