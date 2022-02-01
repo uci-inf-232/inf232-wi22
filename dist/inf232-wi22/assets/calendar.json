@@ -398,7 +398,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3274357",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/02_01_22-overview_critical_sustainable.pdf"
 		},
 		{
 			"date": "2022-02-03",
