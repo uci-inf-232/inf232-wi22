@@ -508,7 +508,18 @@
 			"leaders": ["Cameron", "Julie", "Kelly"],
 			"readings": [
 				{
-					"title": "TBD"
+					"title": "Understanding Mental Ill-health as Psychosocial Disability: Implications for Assistive Technology",
+					"authors": ["Katheryn E. Ringland", "Jennifer Nicholas", "Rachel Kornfield", "Emily G. Lattie", "David C. Mohr", "Madhu Reddy"],
+					"venue": "ASSETS",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/10.1145/3308561.3353785"
+				},
+				{
+					"title": "CueSee: Exploring Visual Cues for People with Low Vision to Facilitate a Visual Search Task",
+					"authors": ["Yuhang Zhao", "Sarit Szpiro", "Jonathan Knighten", "Shiri Azenkot"],
+					"venue": "UbiComp",
+					"date": "2016",
+					"link": "https://dl.acm.org/doi/10.1145/2971648.2971730"
 				}
 			]
 		},
@@ -519,7 +530,38 @@
 			"title": "Overview of Games and Play",
 			"readings": [
 				{
-					"authors":["TBD"]
+					"authors":["Florian Mueller", "Stefan Agamanolis", "Rosalind Picard"],
+					"title": "Exertion Interfaces: Sports over a Distance for Social Bonding and Fun",
+					"venue": "CHI",
+					"date": "2003",
+					"link": "https://dl.acm.org/doi/abs/10.1145/642611.642709"
+				},
+				{
+					"authors":["Nicolas Ducheneaut", "Nicholas Yee", "Eric Nickell", "Robert J. Moore"],
+					"title": "\"Alone Together?\" Exploring the Social Dynamics of Massively Multiplayer Online Games",
+					"venue": "CHI",
+					"date": "2006",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1124772.1124834"
+				},
+				{
+					"authors": ["Regan L. Mandryk", "Kori M. Inkpen", "Thomas W. Calvert"],
+					"title": "Using Psychophysiological Techniques to Measure User Experience with Entertainment Technologies",
+					"venue": "Behaviour & Information Technology",
+					"volume": "25",
+					"issue": "2",
+					"date": "2006",
+					"link": "https://www.tandfonline.com/doi/abs/10.1080/01449290500331156",
+					"optional": true
+				},
+				{
+					"authors": ["Katherine Isbister", "Clifford Nass"],
+					"title": "Consistency of Personality in Interactive Characters: Verbal Cues, Non-Verbal Cues, and User Characteristics",
+					"venue": "IJHCI",
+					"volume": "53",
+					"issue": "2",
+					"date": "2000",
+					"link": "https://www.sciencedirect.com/science/article/abs/pii/S1071581900903689",
+					"optional": true
 				}
 			]
 		},
