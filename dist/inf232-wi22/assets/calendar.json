@@ -529,6 +529,16 @@
 			"type": "class",
 			"leaders": ["Adrianna", "Kimberly", "Nadia"],
 			"title": "Overview of Games and Play",
+			"venues": [
+				{
+					"name": "CHI Subcommittee",
+					"link": "https://chi2022.acm.org/for-authors/presenting/papers/selecting-a-subcommittee/#games"
+				},
+				{
+					"name": "CHI PLAY",
+					"link": "https://chiplay.acm.org/2022/full-papers/"
+				}
+			],
 			"readings": [
 				{
 					"authors":["Florian Mueller", "Stefan Agamanolis", "Rosalind Picard"],
