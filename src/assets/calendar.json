@@ -583,7 +583,18 @@
 			"title": "Discussion of Games and Play",
 			"readings": [
 				{
-					"authors": ["TBD"]
+					"authors": ["Michael Ahmadi", "Rebecca Eilert", "Anne Weibert", "Volker Wulf", "Nicola Marsden"],
+					"title": "Hacking Masculine Cultures - Career Ambitions of Female Young Professionals in a Video Game Company",
+					"venue": "CHI PLAY",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/10.1145/3311350.3347186"
+				},
+				{
+					"authors": ["Chad Phoenix Rose Gowler", "Ioanna Iacovides"],
+					"title": "\"Horror, guilt and shame\" -- Uncomfortable Experiences in Digital Games",
+					"venue": "CHI PLAY",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/10.1145/3311350.3347179"
 				}
 			]
 		},
