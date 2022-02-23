@@ -442,8 +442,7 @@
 			"date": "2022-02-08",
 			"type": "assignments",
 			"title": "Peer Feedback on Proposal 1",
-			"anchor": "proposal1feedback",
-			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889114"
+			"anchor": "proposal1feedback"
 		},
 		{
 			"date": "2022-02-10",
@@ -598,7 +597,8 @@
 					"date": "2019",
 					"link": "https://dl.acm.org/doi/10.1145/3311350.3347179"
 				}
-			]
+			],
+			"slides": "assets/slides/02_22_22-discussion.games.pdf"
 		},
 		{
 			"date": "2022-02-24",
@@ -720,14 +720,14 @@
 		{
 			"date": "2022-03-10",
 			"type": "class",
-			"title": "Proposal 2 Feedback"
+			"title": "In-Person Wrap-Up",
+			"notes": "Meet at Java City, next to DBH."
 		},
 		{
 			"date": "2022-03-10",
 			"type": "assignments",
-			"title": "TBD",
-			"anchor": "proposal2feedback",
-			"link": "https://canvas.eee.uci.edu/courses/43166/assignments/889124"
+			"title": "Peer Feedback on Proposal 2",
+			"anchor": "proposal2feedback"
 		},
 		{
 			"date": "2022-03-15",
