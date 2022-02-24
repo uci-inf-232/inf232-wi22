@@ -720,7 +720,18 @@
 			"title": "Discussion on Learning, Education, and Families",
 			"readings": [
 				{
-					"authors": ["TBD"]
+					"authors": ["Justin Reich"],
+					"title": "Two Stances, Three Genres, and Four Intractable Dilemmas for the Future of Learning at Scale",
+					"venue": "L@S",
+					"date": "2020",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3386527.3405929"
+				},
+				{
+					"authors": ["Maarten Van Mechelen", "Line Have Musaeus", "Ole Sejer Iversen", "Christian Dindler", "Arthur Hjorth"],
+					"title": "A Systematic Review of Empowerment in Child-Computer Interaction Research",
+					"venue": "IDC",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3459990.3460701"	
 				}
 			]
 		},
