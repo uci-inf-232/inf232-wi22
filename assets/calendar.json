@@ -603,7 +603,7 @@
 		{
 			"date": "2022-02-24",
 			"type": "class",
-			"leaders": ["Andrew", "Tianyu"],
+			"leaders": ["Andrew", "Tianyu", "Mojitaba"],
 			"title": "Overview of Privacy and Security",
 			"venues": [
 				{
@@ -634,16 +634,30 @@
 					"date": "1999",
 					"link": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten.ps"
 				}
-			]
+			],
+			"slides": "assets/slides/02_24_22-overview_privacy.pdf"
 		},
 		{
 			"date": "2022-03-01",
 			"type": "class",
-			"leaders": ["Andrew", "Tianyu"],
+			"leaders": ["Andrew", "Tianyu", "Mojitaba"],
 			"title": "Discussion of Privacy and Security",
 			"readings": [
 				{
-					"authors": ["TBD"]
+					"authors": ["Tara Matthews", "Kathleen O'Leary", "Anna Turner", "Manya Sleeper", "Jill Palzkill Woelfer", "Martin Shelton", "Cori Manthorne", "Elizabeth F. Churchill", "Sunny Consolvo"],
+					"title": "Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse",
+					"venue": "CHI",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/10.1145/3025453.3025875"
+				},
+				{
+					"authors": ["Savanthi Murthy", "Karthik S. Bhat", "Sauvik Das", "Neha Kumar"],
+					"title": "Individually Vulnerable, Collectively Safe: The Security and Privacy Practices of Households with Older Adults",
+					"venue": "PACM HCI",
+					"volume": 5,
+					"issue": "CSCW1",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/10.1145/3449212"
 				}
 			]
 		},
