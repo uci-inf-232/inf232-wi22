@@ -659,7 +659,8 @@
 					"date": "2021",
 					"link": "https://dl.acm.org/doi/10.1145/3449212"
 				}
-			]
+			],
+			"slides": "assets/slides/03_01_22-discussion_privacy.pdf"
 		},
 		{
 			"date": "2022-03-03",
