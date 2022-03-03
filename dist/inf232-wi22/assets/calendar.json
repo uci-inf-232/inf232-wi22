@@ -712,7 +712,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3392063.3394436",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/03_03_22-overview_learning.pdf"
 		},
 		{
 			"date": "2022-03-08",
