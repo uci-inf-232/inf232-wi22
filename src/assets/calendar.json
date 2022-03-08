@@ -735,7 +735,8 @@
 					"date": "2021",
 					"link": "https://dl.acm.org/doi/abs/10.1145/3459990.3460701"	
 				}
-			]
+			],
+			"slides": "assets/slides/03_08_22-discussion_learning.pdf"
 		},
 		{
 			"date": "2022-03-08",
